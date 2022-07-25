@@ -1,2 +1,2 @@
-# Clonecraft
-Clone do Minecraft em C
+# CloneC
+Um jogo altamente inspirado em Minecraft 
